@@ -2,23 +2,21 @@ body{
   margin: 0;
   padding: 0;
   text-align: center;
-  background-color: #7678ed !important;
-
+  color: #fff !important;
+  background: #FF512F;
+  background: -webkit-linear-gradient(to left, #FF512F, #DD2476);
+  background: linear-gradient(to left, #FF512F, #DD2476);
 }
 #follower_info {
   width: 500px;
   background-color: #fff;
-  border: 7px solid #ff7575;
+  box-shadow: 0 2px 2px 0px rgba(0, 0, 0, 0.5);
   text-align: center;
   padding: 1%;
   margin-left: 31%;
 }
-h1{
-  color: #f7b801 !important;
-}
 .title{
   width: 500px;
   margin-left: 31% !important;
-  color: #f7b801;
-  font-size: 1.5em;
+  font-size: 1.55em;
 }
